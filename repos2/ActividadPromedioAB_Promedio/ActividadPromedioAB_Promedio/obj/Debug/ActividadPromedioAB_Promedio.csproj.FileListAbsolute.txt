@@ -1,0 +1,8 @@
+C:\Users\TUP\Desktop\repos2\ActividadPromedioAB_Promedio\ActividadPromedioAB_Promedio\bin\Debug\ActividadPromedioAB_Promedio.exe.config
+C:\Users\TUP\Desktop\repos2\ActividadPromedioAB_Promedio\ActividadPromedioAB_Promedio\bin\Debug\ActividadPromedioAB_Promedio.exe
+C:\Users\TUP\Desktop\repos2\ActividadPromedioAB_Promedio\ActividadPromedioAB_Promedio\bin\Debug\ActividadPromedioAB_Promedio.pdb
+C:\Users\TUP\Desktop\repos2\ActividadPromedioAB_Promedio\ActividadPromedioAB_Promedio\obj\Debug\ActividadPromedioAB_Promedio.csproj.AssemblyReference.cache
+C:\Users\TUP\Desktop\repos2\ActividadPromedioAB_Promedio\ActividadPromedioAB_Promedio\obj\Debug\ActividadPromedioAB_Promedio.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUP\Desktop\repos2\ActividadPromedioAB_Promedio\ActividadPromedioAB_Promedio\obj\Debug\ActividadPromedioAB_Promedio.csproj.CoreCompileInputs.cache
+C:\Users\TUP\Desktop\repos2\ActividadPromedioAB_Promedio\ActividadPromedioAB_Promedio\obj\Debug\ActividadPromedioAB_Promedio.exe
+C:\Users\TUP\Desktop\repos2\ActividadPromedioAB_Promedio\ActividadPromedioAB_Promedio\obj\Debug\ActividadPromedioAB_Promedio.pdb
